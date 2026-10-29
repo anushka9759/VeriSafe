@@ -147,13 +147,7 @@ Potential improvements include:
 - Clearer explanations of scan results.
 - Better privacy controls and deployment support.
 
-These are possible future enhancements, not claims about currently implemented features.
-
-##
-
-## 📄 License
-
-A license has not yet been specified. Add a license file if you intend to publish the project under an open-source license.
+These are possible future enhancements, not claims about currently implemented features
 
 ---
 
